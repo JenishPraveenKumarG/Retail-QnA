@@ -1,12 +1,12 @@
-langchain==0.0.284
+langchain==0.2.7
 python-dotenv==1.0.0
-streamlit==1.22.0
+streamlit==1.42.0
 tiktoken==0.4.0
 faiss-cpu==1.7.4
-protobuf~=3.19.0
+protobuf==4.25.6
 langchain_experimental
 mysql-connector-python
 pymysql
 sentence-transformers
 chromadb
-langchain-google-genai
+
