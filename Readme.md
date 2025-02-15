@@ -1,4 +1,4 @@
-# AtliQ Tees: Talk to a Database with the power of LLM
+# Talk to a Database with the power of LLM
 
 ## Overview
 AtliQ Tees is an LLM-based application that connects to an SQL server, converts user queries into SQL queries, and retrieves information from the database. This project leverages LangChain and Streamlit to provide a seamless conversational interface for querying the database.
